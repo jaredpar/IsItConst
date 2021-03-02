@@ -1,0 +1,159 @@
+/unsafe- 
+/checked- 
+/nowarn:1701,1702,1701,1702 
+/fullpaths 
+/nostdlib+ 
+/errorreport:prompt 
+/warn:4 
+/define:TRACE;DEBUG;NETSTANDARD;NETSTANDARD2_1 
+/highentropyva+ 
+/reference:C:\Users\jaredpar\.nuget\packages\azure.core\1.0.0\lib\netstandard2.0\Azure.Core.dll 
+/reference:C:\Users\jaredpar\.nuget\packages\azure.cosmos\4.0.0-preview3\ref\netstandard2.0\Azure.Cosmos.dll 
+/reference:C:\Users\jaredpar\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.0\ref\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll 
+/reference:C:\Users\jaredpar\.nuget\packages\microsoft.csharp\4.3.0\ref\netstandard1.0\Microsoft.CSharp.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\Microsoft.Win32.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\mscorlib.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\netstandard.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\newtonsoft.json\10.0.2\lib\netstandard1.3\Newtonsoft.Json.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.AppContext.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Buffers.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Collections.Concurrent.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Collections.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Collections.NonGeneric.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Collections.Specialized.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ComponentModel.Composition.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ComponentModel.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ComponentModel.EventBasedAsync.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ComponentModel.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ComponentModel.TypeConverter.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.configuration.configurationmanager\4.5.0\ref\netstandard2.0\System.Configuration.ConfigurationManager.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Console.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Core.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Data.Common.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Data.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.Contracts.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.Debug.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.diagnostics.diagnosticsource\4.6.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.FileVersionInfo.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.Process.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.StackTrace.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.TextWriterTraceListener.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.Tools.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.TraceSource.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Diagnostics.Tracing.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Drawing.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Drawing.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Dynamic.Runtime.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Globalization.Calendars.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Globalization.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Globalization.Extensions.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.Compression.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.Compression.FileSystem.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.Compression.ZipFile.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.FileSystem.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.FileSystem.DriveInfo.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.FileSystem.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.FileSystem.Watcher.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.IsolatedStorage.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.MemoryMappedFiles.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.Pipes.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.IO.UnmanagedMemoryStream.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Linq.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Linq.Expressions.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Linq.Parallel.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Linq.Queryable.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Memory.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.Http.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.NameResolution.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.NetworkInformation.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.Ping.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.Requests.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.Security.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.Sockets.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.WebHeaderCollection.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.WebSockets.Client.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Net.WebSockets.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Numerics.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Numerics.Vectors.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ObjectModel.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Reflection.DispatchProxy.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Reflection.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Reflection.Emit.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Reflection.Emit.ILGeneration.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Reflection.Emit.Lightweight.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Reflection.Extensions.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Reflection.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Resources.Reader.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Resources.ResourceManager.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Resources.Writer.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.runtime.compilerservices.unsafe\4.7.0\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.CompilerServices.VisualC.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Extensions.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Handles.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.InteropServices.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Numerics.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Serialization.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Serialization.Formatters.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Serialization.Json.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Serialization.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Runtime.Serialization.Xml.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.security.accesscontrol\4.5.0\ref\netstandard2.0\System.Security.AccessControl.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.Claims.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.Cryptography.Algorithms.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.Cryptography.Csp.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.Cryptography.Encoding.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.Cryptography.Primitives.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.Cryptography.X509Certificates.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.security.permissions\4.5.0\ref\netstandard2.0\System.Security.Permissions.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.Principal.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.security.principal.windows\4.5.0\ref\netstandard2.0\System.Security.Principal.Windows.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Security.SecureString.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.servicemodel.primitives\4.5.0\ref\netstandard2.0\System.ServiceModel.dll 
+/reference:C:\Users\jaredpar\.nuget\packages\system.servicemodel.primitives\4.5.0\ref\netstandard2.0\System.ServiceModel.Primitives.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ServiceModel.Web.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Text.Encoding.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Text.Encoding.Extensions.dll" 
+/reference:C:\Users\jaredpar\.nuget\packages\system.text.encodings.web\4.7.0\lib\netstandard2.1\System.Text.Encodings.Web.dll 
+/reference:C:\Users\jaredpar\.nuget\packages\system.text.json\4.7.0\lib\netstandard2.0\System.Text.Json.dll 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Text.RegularExpressions.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.Overlapped.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.Tasks.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.Tasks.Extensions.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.Tasks.Parallel.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.Thread.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.ThreadPool.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Threading.Timer.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Transactions.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.ValueTuple.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Web.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Windows.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.Linq.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.ReaderWriter.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.Serialization.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.XDocument.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.XmlDocument.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.XmlSerializer.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.XPath.dll" 
+/reference:"C:\Program Files\dotnet\packs\NETStandard.Library.Ref\2.1.0\ref\netstandard2.1\System.Xml.XPath.XDocument.dll" 
+/debug+ 
+/debug:portable 
+/filealign:512 
+/optimize- 
+/out:obj\Debug\netstandard2.1\example.dll 
+/target:library 
+/warnaserror- 
+/utf8output 
+/deterministic+ 
+/langversion:8.0
+example.cs
+"obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.cs"
+obj\Debug\netstandard2.1\example.AssemblyInfo.cs 
+/warnaserror+:NU1605
